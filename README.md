@@ -16,3 +16,5 @@ Repository contains DDL Scripts and triggers for Database and Front End develope
 ![ss](/Screenshots/ss7.png)
 ![ss](/Screenshots/ss8.png)
 ![ss](/Screenshots/ss9.png)
+
+This projects is done as part of DBMS course - group project.
